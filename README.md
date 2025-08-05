@@ -6,7 +6,7 @@ This package gives UI block that can used for visual purposes.
 For Demo visit :-
 
 ```
-URL
+https://render-block-demo.vercel.app
 ```
 
 ```
@@ -18,6 +18,4 @@ type props = {
   left?: string;
   imgSrc?: string;
 };
-
-
 ```
